@@ -1,4 +1,4 @@
-# Semanic-segmentation
+# Semanic Segmentation
 The folder contains code for the pixel-wise classification of a road-scene image using different models like FCN32, FCN16, FCN8, Convolution-Deconvolution Model. The whole code is developed using TensorFlow library in python. This also contains unpooling operation in TensorFlow.
 
 # Objective
