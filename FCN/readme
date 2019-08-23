@@ -1,0 +1,18 @@
+
+
+First of all download vgg16.npy file from the link: ftp://mi.eng.cam.ac.uk/pub/mttt2/models/vgg16.npy and put it in the folder
+
+This folder contains code for FCN models for semantic segmantation
+
+To train the FCN32 model, run the following
+
+python FCN32.py 0
+
+The training parameters will be saved automatically. So, to run it again from the previous point, write following command
+
+python FCN32.py 1
+
+
+
+The same thing apply for FCN16 and FCN8 model.
+

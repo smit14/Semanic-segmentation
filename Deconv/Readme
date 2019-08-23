@@ -1,0 +1,14 @@
+
+First of all download vgg16.npy file fro, the link: ftp://mi.eng.cam.ac.uk/pub/mttt2/models/vgg16.npy and put it in the folder
+
+This folder contains code for Deconvolution model for semantic segmantation
+
+To train the model, run the following
+
+python deconvolution.py 0
+
+The training parameters will be saved automatically. So, to run it again from the previous point, write following command
+
+python deconvolution.py 1
+
+
